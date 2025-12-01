@@ -161,25 +161,6 @@ By the end of this mystery, you should submit:
     | Full Name of Killer as in **employees.name** |
 - 🕒 A short explanation of how you arrived at the conclusion
 
----
-
-## **6. FAQ for Participants**
-
-**Q:** Do I need to install anything?
-
-**A:** Yes. You’ll need a local database (PostgreSQL / MySQL). The dataset dump is shared with you.
-
-**Q:** Can I work in teams?
-
-**A:** No. This is an individual challenge.
-
-**Q:** How long will it take?
-
-**A:** Roughly 1 hour if you follow the investigation flow.
-
-**Q:** Are there any trick questions?
-
-**A:** No tricks — but there may be a few **red herrings** to keep you on your toes.
 
 ---
 
@@ -190,3 +171,5 @@ Use SQL like a detective uses clues. Each query gets you closer to unmasking the
 Only the sharpest data analysts will crack the case. 🕵️‍♀️
 
 Good luck, detective.
+
+
